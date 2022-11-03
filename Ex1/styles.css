@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(198, 214, 230);
+    margin-left: 2em;
+    margin-bottom: 0em;
+    
+    height: 100vh;
+}
+
+h3,h2{
+    
+  font: oblique bold 120% cursive;
+
+}
