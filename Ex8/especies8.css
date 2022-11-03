@@ -1,0 +1,101 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    
+    overflow-x: hidden;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content {
+   
+
+    height: 60em;
+    width: 900px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.container{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 30em;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+h2{
+    display: flex;
+flex-direction: row;
+    align-items: sp;
+    justify-content: center;
+text-align: center;
+letter-spacing: 0.3em;
+margin-block: 1em;
+}
+
+.titulo1{
+    color: rgb(126, 154, 83);
+}
+.titulo2{
+    color:rgb(208, 154, 55);
+}
+
+.indice{
+width: 5em;
+height: 20%;
+padding: 0;
+margin:0em;
+
+display: flex;
+flex-direction: column;
+
+}
+
+ul{
+    height: 5em;
+
+padding: 0;
+margin:1em;
+}
+.center{
+    border: solid 1px rgb(193, 188, 188);
+    height: 27em;
+    width:100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h3{
+   
+ color:  rgb(130, 188, 44);
+    height: 2em;
+    width: 95%;
+    margin-top: 1.5em;
+    margin-bottom: 0em;
+}
+
+hr {
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid rgb(161, 190, 118);
+}
+.texto{
+    padding: 0.5em;
+}
+
+#animal{
+    color: rgb(208, 154, 55);
+}
