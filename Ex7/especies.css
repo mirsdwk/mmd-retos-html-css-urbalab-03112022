@@ -37,9 +37,9 @@ padding: 0;
 margin:1em;
 }
 .center{
-    
+
     border: solid 1px rgb(193, 188, 188);
-    height: 21em;
+    height: 27em;
     width: 52em;
 
     display: flex;
@@ -64,3 +64,6 @@ hr {
     padding: 0.5em;
 }
 
+#animal{
+    color: rgb(208, 154, 55);
+}
