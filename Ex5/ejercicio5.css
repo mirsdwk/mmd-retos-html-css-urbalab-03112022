@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+    padding: 0;
+}
+
+h2{
+    background-color: rgb(243, 185, 92);
+    padding: 0;
+}
+
+h3{
+    color:rgb(101, 101, 192);
+    font-size: xx-large;
+    
+}
+
+.cursiva-azul, .subtitulo{
+    color:rgb(101, 101, 192);
+}
+
